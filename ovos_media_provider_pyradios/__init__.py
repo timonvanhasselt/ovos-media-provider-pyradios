@@ -51,7 +51,7 @@ Example configuration (``mycroft.conf``):
             "favorites": [
               {
                 "name": "Radio 538",
-                "aliases": ["538", "radio five three eight", "my favorite station"],
+                "aliases": ["538", "radio five three eight", "my favorite radio station"],
                 "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
                 "genres": ["pop"]
               }
