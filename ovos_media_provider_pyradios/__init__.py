@@ -57,7 +57,7 @@ Example configuration (``mycroft.conf``):
               }
             ],
             "aliases": {
-              "sky": "Sky Radio"
+              "sky radio": "Sky Radio 101 FM"
             }
           }
         }
